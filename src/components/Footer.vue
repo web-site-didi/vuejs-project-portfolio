@@ -1,0 +1,14 @@
+<script setup>
+
+</script>
+
+<template>
+  <footer class="mt-8 border z-10 border-t-[#33353f] border-l-transparent border-r-transparent text-white">
+    <div class="container p-6 md:p-12 flex flex-col md:flex-row justify-between items-center gap-4 md:gap-0">
+      <div class="text-white text-3xl font-black cursor-pointer"">
+        <a href="#">PORTFOLIO<span class=" text-primary">.</span></a>
+      </div>
+      <p class="text-slate-600">All right reserved</p>
+    </div>
+  </footer>
+</template>
