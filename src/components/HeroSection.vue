@@ -42,9 +42,9 @@ import hero from '../assets/hero.jpg';
                   <Download :size="18" class="text-primary" />
                   <div class="download-loader text-white hidden" />
                 </div>
-                <a href="vuejs-project-portfolio/resume.pdf" download="../../resume.pdf" class="pl-2 text-primary">
+                <p class="pl-2 text-primary">
                   Download resume
-                </a>
+                </p>
               </div>
             </button>
           </div>
