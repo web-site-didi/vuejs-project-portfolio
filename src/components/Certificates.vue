@@ -30,7 +30,7 @@ const certifications = [
 </script>
 
 <template>
-  <section class="text-white py-20" id="certification">
+  <section class="text-white py-20 overflow-hidden" id="certification">
     <div class="max-w-7xl mx-auto px-6 lg:px-16">
       <div class="mb-16" data-aos="zoom-in">
         <p class="text-primary text-sm uppercase mb-2 tracking-widest font-semibold">

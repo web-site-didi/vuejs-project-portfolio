@@ -57,7 +57,7 @@ const handleSubmit = async () => {
 </script>
 
 <template>
-  <section class="py-20 bg-gray-900" id="contact">
+  <section class="py-20 bg-gray-900 overflow-hidden" id="contact">
     <div class="container mx-auto px-4 max-w-6xl" data-aos="zoom-out">
       <div class="text-center mb-12">
         <h2 class="text-3xl md:text-5xl font-extrabold text-white mb-2">

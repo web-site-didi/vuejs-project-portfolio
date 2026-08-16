@@ -42,7 +42,7 @@ import hero from '../assets/hero.jpg';
                   <Download :size="18" class="text-primary" />
                   <div class="download-loader text-white hidden" />
                 </div>
-                <a href="resume.pdf" download="../../resume.pdf" class="pl-2 text-primary">
+                <a href="/resume.pdf" download="../../resume.pdf" class="pl-2 text-primary">
                   Download resume
                 </a>
               </div>

@@ -53,7 +53,7 @@ const projects = [
 </script>
 
 <template>
-  <section class="py-16 bg-gray-900" id="projects">
+  <section class="py-16 bg-gray-900 overflow-hidden" id="projects">
     <div class="container mx-auto px-4 max-w-7xl" data-aos="zoom-in">
       <div class="text-center mb-10">
         <h2 class="text-4xl md:text-5xl font-extrabold text-white">
